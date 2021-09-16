@@ -50,3 +50,7 @@
 [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 > An awesome Zsh theme.
+
+[Rectangle](https://github.com/rxhanson/Rectangle)
+
+> The Simplest windows manager.
