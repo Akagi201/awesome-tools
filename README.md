@@ -1,6 +1,7 @@
 # awesome-tools
 
-> **MY PERSONAL** awesome tools on my perfect rMBP.
+> **MY PERSONAL** awesome tools on my macOS and Arch Linux.
+
 ## Cli
 
 [chezmoi](https://github.com/twpayne/chezmoi)
@@ -21,11 +22,19 @@
 
 [asdf](http://asdf-vm.com/)
 
-> The best package manager for all programming languages.
+> Deprecating. The best package manager for all programming languages.
+
+[mise](https://github.com/jdx/mise)
+
+> Replace asdf, direnv, make(prefer just).
+
+[just](https://github.com/casey/just)
+
+> Replace make.
 
 [mpv](https://mpv.io/)
 
-> Video player based on MPlayer/mplayer2
+> Video player based on MPlayer/mplayer2.
 
 [autojump](https://github.com/wting/autojump)
 
@@ -54,3 +63,17 @@
 [Rectangle](https://github.com/rxhanson/Rectangle)
 
 > The Simplest windows manager.
+
+[starship](https://starship.rs/)
+
+> The best cross-shell prompt.
+
+## APP
+
+[HandBrake](https://handbrake.fr/)
+
+> The best open source video transcoder.
+
+[Cron](https://cron.com/)
+
+> The best calendar app.
